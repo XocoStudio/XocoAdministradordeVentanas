@@ -31,7 +31,7 @@ Esta aplicación permite gestionar ventanas en Windows de forma avanzada. Con el
 
 ## Instalación y Ejecución
 Descarga el ejecutable desde el siguiente enlace:
-   [Descargar Xococapture](https://drive.google.com/file/d/1B2qzp7D8cKTQxXSh5TAJXjPGCXStFtyx/view?usp=sharing)
+   [Descargar XocoAdministradorVentana](https://drive.google.com/file/d/1B2qzp7D8cKTQxXSh5TAJXjPGCXStFtyx/view?usp=sharing)
 
 ## Descargo de Responsabilidad
 
